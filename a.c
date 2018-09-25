@@ -1,6 +1,8 @@
 
 //To find the sum of all elements till n . Different inputs will be given by the user.
 //Use of multiple threads
+//gcc -pthread a.c (for linking )
+// ./a.out 2 3 4 (test case. Output : 3 6 10)
 
 #include<stdio.h>
 #include<stdlib.h>
